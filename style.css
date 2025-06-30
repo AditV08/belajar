@@ -1,0 +1,14 @@
+table,th,td{
+            border: 1px solid black;
+}
+td{
+    padding: 9px;
+}
+body{
+    font-family: Arial;
+    font-size: 16px;
+}
+.container{
+    background-color: #f2f2f2;
+    padding: 20px;
+}
